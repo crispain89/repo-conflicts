@@ -15,4 +15,4 @@ function division(n1,n2){
 }
 
 
-console.log(suma(2,4))
+console.log(suma(1,4))
