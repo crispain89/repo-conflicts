@@ -15,6 +15,7 @@ function division(n1,n2){
   return n1 / n2
 }
 
+<<<<<<< Updated upstream
 
 console.log(suma(3, 1))
 
@@ -24,3 +25,9 @@ console.log(resta(2,9))
 
 console.log(multiplicacion());
 console.log(division())
+=======
+console.log(suma(2, 4));
+//
+//cambio Juan
+//
+>>>>>>> Stashed changes
