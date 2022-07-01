@@ -14,7 +14,7 @@ function division(n1,n2){
   return n1 / n2
 }
 
-
+const HOLA_MAN = "Hei tio estoy comiteando"
 <<<<<<< HEAD
 console.log(suma(2,4))
 //test
